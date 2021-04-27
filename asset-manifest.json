@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.48d90abe.chunk.css",
+    "main.js": "/react-deploy/static/js/main.06ec54ed.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.06ec54ed.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.94e04c70.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.94e04c70.js.map",
+    "static/js/2.960dafac.chunk.js": "/react-deploy/static/js/2.960dafac.chunk.js",
+    "static/js/2.960dafac.chunk.js.map": "/react-deploy/static/js/2.960dafac.chunk.js.map",
+    "static/js/3.72294c85.chunk.js": "/react-deploy/static/js/3.72294c85.chunk.js",
+    "static/js/3.72294c85.chunk.js.map": "/react-deploy/static/js/3.72294c85.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.48d90abe.chunk.css.map": "/react-deploy/static/css/main.48d90abe.chunk.css.map",
+    "static/js/2.960dafac.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.960dafac.chunk.js.LICENSE.txt",
+    "static/media/ben.000c21d0.jpg": "/react-deploy/static/media/ben.000c21d0.jpg",
+    "static/media/logo.6ce24c58.svg": "/react-deploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94e04c70.js",
+    "static/js/2.960dafac.chunk.js",
+    "static/css/main.48d90abe.chunk.css",
+    "static/js/main.06ec54ed.chunk.js"
+  ]
+}
